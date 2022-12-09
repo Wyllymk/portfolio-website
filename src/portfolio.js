@@ -380,7 +380,7 @@ const certifications = {
   certifications: [
     {
       title: "HTML5",
-      subtitle: "- Andrew Ng",
+      subtitle: "- W3Schools",
       logo_path: "html5-1841458__340.webp",
       certificate_link:
         "#",
@@ -388,66 +388,66 @@ const certifications = {
       color_code: "#8C151599",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
+      title: "CSS3",
+      subtitle: "- W3Schools",
+      logo_path: "css3-1841590__340.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
+        "#",
+      alt_name: "CSS3 Cert",
       color_code: "#00000099",
     },
     {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
+      title: "JavaScript",
+      subtitle: "- W3Schools",
+      logo_path: "javascript.webp",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
+        "#",
+      alt_name: "JavaScript Cert",
       color_code: "#0C9D5899",
     },
     {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
+      title: "React",
+      subtitle: "- W3Schools",
+      logo_path: "react.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
+        "#",
+      alt_name: "React Cert",
       color_code: "#1F70C199",
     },
     {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
+      title: "PHP",
+      subtitle: "- W3Schools",
+      logo_path: "PHP-logo.svg.png",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
+        "#",
+      alt_name: "PHP",
       color_code: "#D83B0199",
     },
     {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
-      logo_path: "ibm_logo.png",
+      title: "Bootstrap 5",
+      subtitle: "- W3Schools",
+      logo_path: "bootstrap.jpeg",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
+        "#",
+      alt_name: "Bootstrap",
       color_code: "#1F70C199",
     },
     {
-      title: "Advanced ML on GCP",
+      title: "Node",
       subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
+      logo_path: "Node.js_logo.svg.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
+        "#",
+      alt_name: "Node",
       color_code: "#0C9D5899",
     },
     {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
+      title: "Laravel",
+      subtitle: "- GCP Training",
+      logo_path: "Laravel.svg.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
+        "#",
+      alt_name: "Laravel",
       color_code: "#00000099",
     },
     {
@@ -455,7 +455,7 @@ const certifications = {
       subtitle: "- Jogesh Muppala",
       logo_path: "coursera_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+        "#",
       alt_name: "Coursera",
       color_code: "#2A73CC",
     },
@@ -464,7 +464,7 @@ const certifications = {
       subtitle: "- Qwiklabs",
       logo_path: "gcp_logo.png",
       certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
+        "#",
       alt_name: "GCP",
       color_code: "#4285F499",
     },
@@ -473,7 +473,7 @@ const certifications = {
       subtitle: "- Saurabh Mukhopadhyay",
       logo_path: "nptel_logo.png",
       certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
+        "#",
       alt_name: "NPTEL",
       color_code: "#FFBB0099",
     },
@@ -482,7 +482,7 @@ const certifications = {
       subtitle: "- Qwiklabs",
       logo_path: "gcp_logo.png",
       certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+        "#",
       alt_name: "GCP",
       color_code: "#4285F499",
     },
@@ -494,21 +494,21 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as Web Developer.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
+          title: "WordPress Developer",
+          company: "Mediko Mall",
+          company_url: "https://medikomall.com/",
           logo_path: "legato_logo.png",
           duration: "June 2020 - PRESENT",
-          location: "Hyderabad, Telangana",
+          location: "Nairobi, Kenya",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "I am working on automating healthcare products. The projects involve creating a drop shipping website.",
           color: "#0879bf",
         },
         {
@@ -517,20 +517,20 @@ const experience = {
           company_url: "https://www.linkedin.com/company/muffito-inc/about/",
           logo_path: "muffito_logo.png",
           duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          location: "Juja, Kenya",
           description:
             "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
+          title: "Web Developer",
           company: "FreeCopy Pvt. Ltd.",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "freecopy_logo.png",
           duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          location: "Nyeri, Kenya",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "FreeCopy is the Start up from Kenyan Institute of Management. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
           color: "#fc1f20",
         },
       ],
@@ -544,7 +544,7 @@ const experience = {
           company_url: "https://www.delhivery.com/",
           logo_path: "delhivery_logo.png",
           duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
+          location: "Nyeri, Kenya",
           description:
             "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
           color: "#ee3c26",
@@ -572,7 +572,7 @@ const experience = {
           company_url: "https://about.google/",
           logo_path: "google_logo.png",
           duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
+          location: "Nairobi, Kenya",
           description:
             "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
           color: "#4285F4",
@@ -583,7 +583,7 @@ const experience = {
           company_url: "https://www.microsoft.com/",
           logo_path: "microsoft_logo.png",
           duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
+          location: "Nyeri, Kenya",
           description:
             "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
           color: "#D83B01",
@@ -594,7 +594,7 @@ const experience = {
           company_url: "https://www.mozilla.org/",
           logo_path: "mozilla_logo.png",
           duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
+          location: "Online",
           description:
             "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
           color: "#000000",
@@ -606,7 +606,7 @@ const experience = {
             "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
           logo_path: "dsc_logo.png",
           duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
+          location: "Online",
           description:
             "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
           color: "#0C9D58",

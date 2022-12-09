@@ -361,17 +361,17 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      title: "University of Nairobi",
+      subtitle: "B.Sc in Computer Science",
+      logo_path: "UoN_Logo.png",
+      alt_name: "UON",
+      duration: "2016 - 2019",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://www.uonbi.ac.ke/",
     },
   ],
 };
@@ -379,12 +379,12 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
+      title: "HTML5",
       subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      logo_path: "html5-1841458__340.webp",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
+        "#",
+      alt_name: "HTML5 Crt",
       color_code: "#8C151599",
     },
     {
